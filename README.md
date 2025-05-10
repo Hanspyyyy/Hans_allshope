@@ -16,7 +16,7 @@
       height: 100%;
       font-family: 'Poppins', sans-serif;
       color: white;
-      background: black url('alok3.gif') no-repeat center center fixed;
+      background: black url('alok4.gif') no-repeat center center fixed;
       background-size: cover;
     }
 
