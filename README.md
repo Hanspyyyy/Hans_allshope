@@ -47,7 +47,7 @@
 
     .desc {
       font-size: 14px;
-      color: #ccc;
+      color: black;
       margin-bottom: 20px;
     }
 
