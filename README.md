@@ -47,11 +47,12 @@
 
     .desc {
       font-size: 14px;
-      color: black;
+      color: #ccc;
       margin-bottom: 20px;
     }
 
     .social-icons img {
+      color: yellow;
       width: 30px;
       margin: 5px;
       filter: brightness(0) invert(1);
