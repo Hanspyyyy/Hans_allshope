@@ -64,8 +64,8 @@
 
     .buttons a {
       display: block;
-      background: white;
-      color: black;
+      background: yellow;
+      color: yellow;
       text-decoration: none;
       margin: 10px auto;
       padding: 12px;
