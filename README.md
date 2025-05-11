@@ -52,9 +52,8 @@
     }
 
     .social-icons img {
-      color: yellow;
-      width: 30px;
-      margin: 5px;
+      width: 90px;
+      margin: 10px;
       filter: brightness(0) invert(1);
       transition: transform 0.3s ease;
     }
