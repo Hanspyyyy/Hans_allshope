@@ -99,11 +99,11 @@
 
     <div class="social-icons">
       <a href="https://www.tiktok.com/@hans_.py?_t=ZS-8wFFLQvU5Bf&_r=1" target="_blank"><img src="tiktok1.png" alt="TikTok"></a>
-      <a href="https://www.instagram.com/hakiman_nurkholis" target="_blank"><img src="ig.png" alt="Instagram"></a>
+      <a href="https://www.instagram.com/hakiman_nurkholis" target="_blank"><img src="ig1.png" alt="Instagram"></a>
       <a href="https://www.youtube.com/@Hans.pyyyyy" target="_blank"><img src="yt.png" alt="YouTube"></a>
       <a href="https://github.com/hans_.pyy/" target="_blank"><img src="gt.png" alt="GitHub"></a>
       <a href="https://t.me/hans_.py" target="_blank"><img src="tl.png" alt="Telegram"></a>
-      <a href="https://www.facebook.com/profile.php?id=61576289065160" target="_blank"><img src="fb.png" alt="Facebook"></a>
+      <a href="https://www.facebook.com/profile.php?id=61576289065160" target="_blank"><img src="fb1.png" alt="Facebook"></a>
     </div>
 
     <div class="buttons">
