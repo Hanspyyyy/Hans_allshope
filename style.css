@@ -55,13 +55,13 @@ h1 {
 h2 {
     font-size: 45px;
     font-weight: 300;
-    color: #633991;
+    color: black;
     letter-spacing: -1px;
     margin-bottom: 1rem;
 }
 
 h3 {
-    color: #633991;
+    color: black;
     font-size: 33px;
     font-weight: 500;
 }
@@ -69,27 +69,27 @@ h3 {
 h4 {
     font-size: 20px;
     font-weight: 500;
-    color: #633991;
+    color: black;
 }
 
 h5 {
     font-size: 28px;
     font-weight: 300;
-    color: #633991;
+    color: black;
     margin-bottom: 0.7rem;
 }
 
 p {
-    color: #959094;
+    color: red;
 }
 
 p.lead {
-    color: #e38cb7;
+    color: blue;
     margin-bottom: 2rem;
 }
 
 .text-primary {
-    color: #e38cb7 !important;
+    color: blue !important;
 }
 
 .light-font {
